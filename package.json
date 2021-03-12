@@ -105,7 +105,6 @@
     "eject": "react-scripts eject",
     "integration-test": "start-server-and-test 'serve build -l 3000' http://localhost:3000 'cypress run'",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": "react-app",
